@@ -109,5 +109,5 @@ class Estudiante {
 
   @override
   String toString() =>
-      '[$registro] $nombreCompleto - $edad anios - $cantidadMaterias materia(s)';
+      '[$registro] $nombreCompleto - $edad años - $cantidadMaterias materia(s)';
 }

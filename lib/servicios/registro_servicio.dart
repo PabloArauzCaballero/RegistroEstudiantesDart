@@ -154,13 +154,13 @@ class RegistroServicio {
     inscribirMateria(
       registro: '223001',
       codigoMateria: 'SI-220',
-      nombreMateria: 'Fundamentos de Programacion',
+      nombreMateria: 'Fundamentos de Programación',
       fechaRegistro: DateTime(2026, 2, 10),
     );
     inscribirMateria(
       registro: '223001',
       codigoMateria: 'MAT-101',
-      nombreMateria: 'Calculo I',
+      nombreMateria: 'Cálculo I',
       fechaRegistro: DateTime(2026, 2, 10),
     );
     inscribirMateria(

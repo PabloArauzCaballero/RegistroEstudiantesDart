@@ -87,10 +87,10 @@ class MateriaDisponible {
 
 /// Catalogo fijo de materias que se pueden inscribir.
 const List<MateriaDisponible> catalogoMaterias = <MateriaDisponible>[
-  MateriaDisponible(codigo: 'SI-220', nombre: 'Fundamentos de Programacion'),
-  MateriaDisponible(codigo: 'SI-221', nombre: 'Programacion I'),
+  MateriaDisponible(codigo: 'SI-220', nombre: 'Fundamentos de Programación'),
+  MateriaDisponible(codigo: 'SI-221', nombre: 'Programación I'),
   MateriaDisponible(codigo: 'SI-310', nombre: 'Estructuras de Datos'),
   MateriaDisponible(codigo: 'SI-330', nombre: 'Base de Datos I'),
-  MateriaDisponible(codigo: 'MAT-101', nombre: 'Calculo I'),
-  MateriaDisponible(codigo: 'MAT-207', nombre: 'Matematica Discreta'),
+  MateriaDisponible(codigo: 'MAT-101', nombre: 'Cálculo I'),
+  MateriaDisponible(codigo: 'MAT-207', nombre: 'Matemática Discreta'),
 ];
