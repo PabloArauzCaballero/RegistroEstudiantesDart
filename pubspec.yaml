@@ -1,0 +1,7 @@
+name: registro_estudiantes
+description: Sistema de consola para registrar estudiantes y las materias que inscriben.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
